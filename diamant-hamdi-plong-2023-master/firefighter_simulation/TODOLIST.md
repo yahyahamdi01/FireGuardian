@@ -1,0 +1,6 @@
+- [ ] Prendre en compte le type de vehicule dans l'algo luciole
+- [ ] Afficher l'image scalisé du grid
+- [ ] Refaire le visualiseur
+- [ ] Loading screen lorsque le grid est en train de se charger
+- [ ] Ajouter un menu pour selectionner un fichier json, png ou tiff à charger
+- [ ] Afficher le feu dans le visualiseur

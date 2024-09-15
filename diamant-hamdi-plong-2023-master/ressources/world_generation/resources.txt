@@ -1,0 +1,9 @@
+Les algorithmes de la classe OpenSimplex pour la génération de Simplex noise est issue de:
+https://github.com/KdotJPG/OpenSimplex2
+
+
+Terrain generation with PERLIN NOISE
+https://www.youtube.com/watch?v=jv6YT9pPIHw
+
+Terrain generation with DIAMOND SQUARE
+https://janert.me/blog/2022/the-diamond-square-algorithm-for-terrain-generation/

@@ -1,0 +1,37 @@
+World land cover ESA:
+https://viewer.esa-worldcover.org/worldcover/?language=en&bbox=-25.800362253053926,35.86644029174869,30.565012121054206,55.31315961681736&overlay=false&bgLayer=OSM&date=2024-03-16&layer=WORLDCOVER_2021_MAP
+Permet de visualiser la couverture des sols dans le monde entier.
+Par exemple la couverture des sols de la France:
+    - 36.56% de forêts
+    - 29.33% de prairies
+    - 27.13% de terres agricoles
+    - 3% de zones urbaines
+    - 1.41% de végetation clairsemée
+    - 1.33% de maquis
+    - 0.93% de zones humides et d'eau
+
+Database de toutes les pompes à incendie de Paris
+GeoDataMine: https://geodatamine.fr/
+
+Affiche dans Java Swing une carte OpenStreetMaps
+OpenStreetMaps: JXMapViewer: https://github.com/msteiger/jxmapviewer2
+
+Permet de visualiser la couverture des pompiers sur une carte du monde
+OSMHydrant: https://www.osmhydrant.org/fr/
+
+Fichier osm.pbf de la région Ile-de-France. 
+Ce fichier permet de connaitre les noeuds, arrete et relations de la région Ile-de-France,
+pour pouvoir créer un graphe à partir de ces données.
+GeoFabrik.de: https://download.geofabrik.de/europe/france/ile-de-france.html
+
+Routing JXMapViewer et création d'un graphe a partir de la carte et des données OSM
+https://www.youtube.com/watch?v=QypkLhw4ARY
+
+Database de l'ensemble des casernes de pompiers de Paris et de la petite couronne
+https://www.data.gouv.fr/fr/datasets/liste-des-casernes-a-paris-et-dans-les-departements-de-la-petite-couronne-551678/
+
+Création d'un graphe à partir des données OSM
+https://stackoverflow.com/questions/11127852/openstreetmap-routing-java-swing-application
+
+Parsing XML
+https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm

@@ -1,0 +1,7 @@
+# MAVEN
+target/
+
+# VSCODE
+.vscode/
+
+json/
